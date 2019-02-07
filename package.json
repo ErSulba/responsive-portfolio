@@ -1,11 +1,11 @@
 {
-  "name": "portafolio",
+  "name": "responsive-portfolio",
   "version": "1.0.0",
   "description": "reponsive portfolio made by @ersulba",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alejandro Sulbaran <sulbaran.kun@gmail.com> (https://twitter.com/ersulba)",
+  "author": "Alejandro Sulbaran <ersulba@gmail.com> (https://twitter.com/ersulba)",
   "license": "ISC"
 }
